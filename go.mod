@@ -1,1 +1,1 @@
-module github.com/nevermosby/testmod
+module github.com/robteix/testmod/v2
